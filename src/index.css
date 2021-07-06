@@ -5,3 +5,14 @@ body {
     flex-direction: column;
     align-items: center;
 }
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+    body {
+        background-image: url("./images/kim-daniels-JdaZIXXqVtc-unsplash.jpg");
+        background-size: 160%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }    
+}
