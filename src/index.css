@@ -1,0 +1,7 @@
+body {
+    background-image: url("./images/kim-daniels-p6XuDW03YjE-unsplash.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
